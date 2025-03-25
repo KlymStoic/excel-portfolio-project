@@ -5,6 +5,7 @@ This repository contains a portfolio project where I built an interactive Excel 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Dashboard Preview](#dashboard-preview)
 - [Project Missions](#project-missions)
 - [How to Use](#how-to-use)
 - [Key Features](#key-features)
@@ -13,6 +14,10 @@ This repository contains a portfolio project where I built an interactive Excel 
 ## Overview
 
 The dashboard was created to demonstrate my skills in data analysis and Excel. It transforms raw bike sales data into a dynamic view of key metrics and trends.
+
+## Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
 
 ## Project Missions
 
@@ -36,3 +41,4 @@ The dashboard was created to demonstrate my skills in data analysis and Excel. I
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
